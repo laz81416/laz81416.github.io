@@ -2,7 +2,7 @@
 layout: default
 ---
 
-![img1](images/img1.jpg)
+![img1](images/img2.jpg)
 
 
 # 最新情報
