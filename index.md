@@ -5,8 +5,17 @@ layout: default
 ![img1](images/img1.jpg)
 
 
-# test
-本文1
+# 最新情報
+展示等予定など
 
-## test2
-本文２
+## 自己紹介
+
+## お仕事履歴
+
+## ギャラリー
+
+## twitter
+
+## instagram
+
+## mail
