@@ -10,12 +10,12 @@ layout: default
 
 ## [自己紹介](intro.md)
 
-## お仕事履歴
+## [お仕事履歴](works.md)
 
-## ギャラリー
+## [ギャラリー](gallery.md)
 
-## twitter
+## [mail](mail.md)
 
-## instagram
+## [twitter](https://twitter.com/Arataniii)
 
-## mail
+## [instagram](https://www.instagram.com/aratani05/)
