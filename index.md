@@ -23,7 +23,6 @@ layout: default
 ![img3](images/img3.jpg)
 ![img4](images/img4.jpg)
 </body>
-
 <footer>
 ![メール送信](images/mail.png)
-</footer>
+</foooter>
