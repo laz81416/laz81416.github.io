@@ -2,20 +2,21 @@
 layout: default
 ---
 
-![img1](images/img2.jpg)
+
+index
+about
+![トップ画像](images/img2.jpg)
 
 
-# 最新情報
-展示等予定など
+# 自己ＰＲ
+１つ目こんなことこんなことこんなことこんなことこんなことこんなこと
+２つ目こんなことこんなことこんなことこんなことこんなことこんなこと
+３つ目こんなことこんなことこんなことこんなことこんなことこんなこと
 
-## [自己紹介](intro.md)
+# 作品
+主に水彩画で少女を描くことを得意としています
+![img1](images/img1.jpg)
+![img3](images/img3.jpg)
+![img4](images/img4.jpg)
 
-## [お仕事履歴](works.md)
-
-## [ギャラリー](gallery.md)
-
-## [mail](mail.md)
-
-## [twitter](https://twitter.com/Arataniii)
-
-## [instagram](https://www.instagram.com/aratani05/)
+![メール送信](images/mail.png)
