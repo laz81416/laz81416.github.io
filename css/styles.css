@@ -1,0 +1,17 @@
+body{
+  font-family:yugothil sans-serif;
+}
+
+header{
+  text-decoration: none;
+  color:inherit;
+  text-align: right;
+}
+
+header:hover{
+  color:royalblue;
+}
+
+header .container{
+
+}

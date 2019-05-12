@@ -1,13 +1,17 @@
 ---
 layout: default
 ---
+<link rel="stylesheet" href="css/styles.css">
 
-
+<header>
+<div class="container">
 [index](index.md)
 [about](about.md)
 ![トップ画像](images/img2.jpg)
+</div>
+</header>
 
-
+<body>
 # 自己ＰＲ
 １つ目こんなことこんなことこんなことこんなことこんなことこんなこと
 ２つ目こんなことこんなことこんなことこんなことこんなことこんなこと
@@ -18,5 +22,8 @@ layout: default
 ![img1](images/img1.jpg)
 ![img3](images/img3.jpg)
 ![img4](images/img4.jpg)
+</body>
 
+<footer>
 ![メール送信](images/mail.png)
+</footer>
