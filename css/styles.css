@@ -4,7 +4,7 @@ body{
 
 header{
   text-decoration: none;
-  color:#333;
+  color:inherit;
   text-align: right;
 }
 
