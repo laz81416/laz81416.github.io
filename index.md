@@ -3,8 +3,8 @@ layout: default
 ---
 
 
-index
-about
+[index](index.md)
+[about](about.md)
 ![トップ画像](images/img2.jpg)
 
 
